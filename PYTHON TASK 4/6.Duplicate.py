@@ -4,3 +4,4 @@ list3=[4,5,0,7]
 for n in list1:
     if n in list2 and n in list3:
         print(n)
+        
